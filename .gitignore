@@ -5,6 +5,7 @@
 .nitro
 .cache
 dist
+.env
 
 # Node dependencies
 node_modules
@@ -25,3 +26,4 @@ logs
 
 .vscode
 package-lock.json
+/app/generated/prisma
